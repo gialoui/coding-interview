@@ -17,13 +17,18 @@
 | [Introduction to Algorithms: A Creative Approach](./pdf/Introduction to Algorithms A Creative Approach.pdf)    |        Advanced         |               Pseudo |                   Introductory textbook for CS students |
 | [Algorithm Design](./pdf/Algorithm Design.pdf)                                                                 | Intermediate - Advanced |               Pseudo |     Learn principles and trade-offs of algorithm design |
 
-+ Preference
++ Additional
   + [16 Best Data Structures and Algorithms Books to Read in 2023](https://hackr.io/blog/best-data-structures-and-algorithms-books)
   + [10 Best Data Structures and Algorithms Books 2023](https://www.interviewbit.com/blog/data-structures-and-algorithms-books/)
   + [15 BEST Data Structures and Algorithms Books (2022 Update)](https://www.guru99.com/data-structure-algorithms-books.html)
   + [Top 10 Algorithms books Every Programmer Should Read](https://www.java67.com/2015/09/top-10-algorithm-books-every-programmer-read-learn.html)
 
 # Explore more
-+ [46 Best Resources to Learn Data Structures and Algorithms- (YouTube, Tutorials, Courses, Books, etc) - 2023](https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/)
++ [46 Best Resources to Learn Data Structures and Algorithms - 2023](https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/)
 + [Free resources to master algorithms & data structure](https://dev.to/ayabouchiha/free-resources-to-master-algorithms-data-structure-2nfj)
 + [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+
+# Practice
++ [Best practice questions](https://www.techinterviewhandbook.org/best-practice-questions/)
++ [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
++ [450 DSA Cracker](https://450dsa.com/)
