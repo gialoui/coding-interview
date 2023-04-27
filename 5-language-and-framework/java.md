@@ -1,20 +1,19 @@
 # Book
 ## For Study
-+ [Effective Java](./pdf/Effective Java 3rd Edition.pdf)
-+ [Java The Complete Reference](./pdf/Java The Complete Reference 11 Edition.pdf)
-+ [Thinking in Java](./pdf/Thinking in Java 4th Edition.pdf)
-+ [Java concurrency in practice](./pdf/java-concurrency-in-practice.pdf)
++ [Effective Java](./pdf/Effective-Java-3rd-Edition.pdf)
++ [Java The Complete Reference](./pdf/Java-The-Complete-Reference-11-Edition.pdf)
++ [Thinking in Java](./pdf/Thinking-in-Java-4th-Edition.pdf)
++ [Java concurrency in practice](./pdf/Java-concurrency-in-practice.pdf)
 + [Java Performance The Definitive Guide](./pdf/Java-Performance-The-Definitive-Guide.pdf)
-+ [Java 8 in Action.pdf](./pdf/Java 8 in Action.pdf)
++ [Java 8 in Action.pdf](./pdf/Java-8-in-Action.pdf)
 + [More Book](https://www.interviewbit.com/blog/java-books/)
 
 ## For interview
-+ [Java interview notes](./pdf/java-interview-notes-covers-136-topics-and-700-technical-interview-questions.pdf)
-+ [Grokking the java interview](./pdf/grokking-the-java-interview.pdf)
-+ [Java programming interviews exposed](./pdf/java_programming_interviews_exposed.pdf)
-+ [Elements of Programming Interviews in Java](./pdf/Elements of Programming Interviews in Java.pdf)
-+ [Java Interview Guide](./pdf/Java Interview Guide.pdf)
-+ [Cracking The Programming Interview](./pdf/Cracking The Programming Interview.pdf)
++ [Java interview notes](./pdf/Java-interview-notes-covers-136-topics-and-700-technical-interview-questions.pdf)
++ [Grokking the java interview](./pdf/Grokking-the-java-interview.pdf)
++ [Java Interview Guide](./pdf/Java-Interview-Guide.pdf)
++ [Cracking The Programming Interview](./pdf/Cracking-The-Programming-Interview.pdf)
++ [Java programming interviews exposed](./pdf/java-programming-interviews-exposed.pdf)
 
 # Highlight
 ## JVM Architecture

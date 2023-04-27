@@ -3,9 +3,9 @@
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 # Book
-+ [Cracking The Coding Interview](pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
-+ [Elements of Programming Interviews](pdf/Elements-of-Programming-Interviews.pdf)
-+ [Programming Interviews Exposed](pdf/Programming%20Interviews%20Exposed.pdf)
++ [Cracking The Coding Interview](pdf/Cracking-the-Coding-Interview-6th-Edition.pdf)
++ [Elements of Programming Interviews In Java](pdf/Elements-of-Programming-Interviews-In-Java.pdf)
++ [Programming Interviews Exposed](pdf/Programming-Interviews-Exposed.pdf)
 
 # Explore more
 + [How to ace coding interviews. The ultimate guide](https://dev.to/codinglanguages/how-to-ace-coding-interviews-the-ultimate-guide-5567)

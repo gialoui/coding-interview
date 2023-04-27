@@ -1,20 +1,20 @@
 # Guide
-+ [Complete Data structures and Algorithms Guide](./pdf/Complete Data structures and Algorithms Guide.pdf)
++ [Complete Data structures and Algorithms Guide](./pdf/Complete-Data-structures-and-Algorithms-Guide.pdf)
 
 # Book
 
 | Name                                                                                                           |          Level          |             Language |                                                 Summary |
 |:---------------------------------------------------------------------------------------------------------------|:-----------------------:|---------------------:|--------------------------------------------------------:|
-| [Grokking Algorithms](./pdf/Grokking Algorithms.pdf)                                                           |        Beginner         |               Pseudo | Learn data structures and algorithms with illustrations |
-| [Data Structures and Algorithms Made Easy in Java](./pdf/Data Structures and Algorithms Made Easy in Java.pdf) | Beginner - Intermediate |                 Java |            Learn by solving common algorithm challenges |
-| [Data Structures and Algorithms in Java](./pdf/Data Structures and Algorithms in Java.pdf)                     | Beginner - Intermediate |                 Java |                        Great choice for Java developers |
-| [Introduction to Algorithms](./pdf/Introduction To Algorithms 3rd Edition.pdf)                                 |      Intermediate       |               Pseudo |                       Comprehensive guide to algorithms |
-| [Algorithms 4th Edition](./pdf/Algorithms 4th Edition.pdf)                                                     | Beginner - Intermediate |            Java, C++ |                       DSA book with a companion website |
-| [Algorithms in a Nutshell](./pdf/Algorithms in a Nutshell.pdf)                                                 | Beginner - Intermediate | Java, C, C++, Python |      Explains DSA with code in C, C++, Python, and Java |
-| [Algorithms Unlocked.pdf](./pdf/Algorithms Unlocked.pdf)                                                       | Beginner - Intermediate |               Pseudo |                      Learn how computers use algorithms |
-| [The Algorithm Design Manual 3rd Edition](./pdf/The Algorithm Design Manual 3rd Edition.pdf)                   | Intermediate - Advanced |         Java, C, C++ |           Learn the implementation of common algorithms |
-| [Introduction to Algorithms: A Creative Approach](./pdf/Introduction to Algorithms A Creative Approach.pdf)    |        Advanced         |               Pseudo |                   Introductory textbook for CS students |
-| [Algorithm Design](./pdf/Algorithm Design.pdf)                                                                 | Intermediate - Advanced |               Pseudo |     Learn principles and trade-offs of algorithm design |
+| [Grokking Algorithms](./pdf/Grokking-Algorithms.pdf)                                                           |        Beginner         |               Pseudo | Learn data structures and algorithms with illustrations |
+| [Data Structures and Algorithms Made Easy in Java](./pdf/Data-Structures-and-Algorithms-Made-Easy-in-Java.pdf) | Beginner - Intermediate |                 Java |            Learn by solving common algorithm challenges |
+| [Data Structures and Algorithms in Java](./pdf/Data-Structures-and-Algorithms-in-Java.pdf)                     | Beginner - Intermediate |                 Java |                        Great choice for Java developers |
+| [Introduction to Algorithms](./pdf/Introduction-To-Algorithms-3rd-Edition.pdf)                                 |      Intermediate       |               Pseudo |                       Comprehensive guide to algorithms |
+| [Algorithms 4th Edition](./pdf/Algorithms-4th-Edition.pdf)                                                     | Beginner - Intermediate |            Java, C++ |                       DSA book with a companion website |
+| [Algorithms in a Nutshell](./pdf/Algorithms-in-a-Nutshell.pdf)                                                 | Beginner - Intermediate | Java, C, C++, Python |      Explains DSA with code in C, C++, Python, and Java |
+| [Algorithms Unlocked.pdf](./pdf/Algorithms-Unlocked.pdf)                                                       | Beginner - Intermediate |               Pseudo |                      Learn how computers use algorithms |
+| [The Algorithm Design Manual 3rd Edition](./pdf/The-Algorithm-Design-Manual-3rd-Edition.pdf)                   | Intermediate - Advanced |         Java, C, C++ |           Learn the implementation of common algorithms |
+| [Introduction to Algorithms: A Creative Approach](./pdf/Introduction-to-Algorithms-A-Creative-Approach.pdf)    |        Advanced         |               Pseudo |                   Introductory textbook for CS students |
+| [Algorithm Design](./pdf/Algorithm-Design.pdf)                                                                 | Intermediate - Advanced |               Pseudo |     Learn principles and trade-offs of algorithm design |
 
 + More Book
   + [16 Best Data Structures and Algorithms Books to Read in 2023](https://hackr.io/blog/best-data-structures-and-algorithms-books)
