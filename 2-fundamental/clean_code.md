@@ -1,8 +1,8 @@
 # Book
-+ [Head First Design Patterns](./pdf/Head First Design Patterns.pdf)
++ [Head First Design Patterns](./pdf/Head-First-Design-Patterns.pdf)
 + [Clean Code](./pdf/Clean-Code.pdf)
-+ [Clean Architecture](./pdf/Clean Architecture.pdf)
-+ [Domain-Driven Design](./pdf/Domain Driven Design.pdf)
++ [Clean Architecture](./pdf/Clean-Architecture.pdf)
++ [Domain-Driven Design](./pdf/Domain-Driven-Design.pdf)
 
 # Highlight
 + [Object-Oriented Programming (OOPs) Concept in Java](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
