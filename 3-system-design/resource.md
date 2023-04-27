@@ -10,6 +10,10 @@
 + [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
 
 # Explore more
-+ [Alex Xu posts](https://blog.bytebytego.com/)
++ [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 + [Awesome system design](https://github.com/madd86/awesome-system-design)
 + [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+
+# Check List
++ [Database](./database.md)
++ [Queue](./queue.md)
