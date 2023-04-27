@@ -2,9 +2,9 @@
 + [System design interview guide for Software Engineers](https://www.techinterviewhandbook.org/system-design/)
 
 # Book
-+ [System Design Interview An Insider’s Guide by Alex Xu](./pdf/System Design Interview An Insider’s Guide by Alex Xu.pdf)
++ [System Design Interview An Insider’s Guide by Alex Xu](./pdf/System-Design-Interview.pdf)
 + [Designing data intensive applications](./pdf/designing-data-intensive-applications.pdf)
-+ [Building Microservices](./pdf/Building Microservices.pdf)
++ [Building Microservices](./pdf/Building-Microservices.pdf)
 
 # Video
 + [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
