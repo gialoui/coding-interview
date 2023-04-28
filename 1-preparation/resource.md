@@ -8,6 +8,7 @@
 + [Programming Interviews Exposed](pdf/Programming-Interviews-Exposed.pdf)
 
 # Explore more
++ [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 + [How to ace coding interviews. The ultimate guide](https://dev.to/codinglanguages/how-to-ace-coding-interviews-the-ultimate-guide-5567)
 + [Complete interview preparation guide](https://interviews.school/)
 + [Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview in 2022](https://learntocodewith.me/posts/technical-interview/)

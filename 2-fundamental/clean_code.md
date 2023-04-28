@@ -1,6 +1,8 @@
 # Book
-+ [Head First Design Patterns](./pdf/Head-First-Design-Patterns.pdf)
 + [Clean Code](./pdf/Clean-Code.pdf)
++ [Code Complete](./pdf/Code-Complete-2nd-Edition.pdf)
++ [Head First Design Patterns](./pdf/Head-First-Design-Patterns.pdf)
++ [Design Patterns by Gang of Four](./pdf/Design-Patterns-by-Gang-of-Four.pdf)
 + [Clean Architecture](./pdf/Clean-Architecture.pdf)
 + [Domain-Driven Design](./pdf/Domain-Driven-Design.pdf)
 
