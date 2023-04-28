@@ -14,5 +14,4 @@
 + [Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview in 2022](https://learntocodewith.me/posts/technical-interview/)
 + [Preparing for the systems design and coding interviews](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 + [Yet another list of Interview Preparation Resources](https://intvw.nafsadh.com/resources.html)
-+ [Best Resources for Tech Interviews (Coding & System Design)](https://serhatgiydiren.com/best-resources-for-tech-interviews/)
 + [Coding Interview Prep: 11 Absolute Best Coding Interview Resources for 2023](https://realtoughcandy.com/coding-interview-prep/)

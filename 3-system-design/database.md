@@ -1,8 +1,4 @@
 # Highlight
-## Redis
-+ [redis](https://redis.io/docs/about/)
-+ [redis architecture](https://viblo.asia/p/giai-thich-ve-redis-architecture-obA46D6xLKv)
-
 ## Mysql
 + [MyISAM | InnoDb](https://viblo.asia/p/myisam-innodb-in-mysql-924lJOkm5PM)
 + [b-tree index](https://viblo.asia/p/gioi-thieu-ve-b-tree-index-trong-database-ByEZkQn25Q0)
