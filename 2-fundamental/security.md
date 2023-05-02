@@ -1,11 +1,18 @@
+# Guide
++ [Security](https://www.baeldung.com/cs/category/security)
+
 # Highlight
-+ [Basic security](https://toidicodedao.com/2016/09/13/bao-mat-co-ban-phan-1/)
++ [Introduction to Cryptography](https://www.baeldung.com/cs/introduction-to-cryptography)
++ [Symmetric Cryptography vs Asymmetric Cryptography](https://www.baeldung.com/cs/symmetric-vs-asymmetric-cryptography)
++ [Public/Private Keys Vs. Certificates](https://www.baeldung.com/cs/public-private-keys-vs-certificates)
++ [Authentication vs Authorization](https://www.baeldung.com/cs/authentication-vs-authorization)
++ [Simple Hashing vs. Salted Hashing](https://www.baeldung.com/cs/simple-hashing-vs-salted-hashing)
++ [MD5 vs. SHA Algorithms](https://www.baeldung.com/cs/md5-vs-sha-algorithms)
 + [How to hash password](https://taoquangne.com/post/how-to-hash-store-password/)
-+ [Authentication | Authorization](https://viblo.asia/p/phan-biet-su-khac-nhau-giua-authentication-va-authorization-Eb85oad4Z2G)
-+ JWT
-+ Session-based authentication vs JWT-based authentication? (Stateless vs Stateful)
-+ HMAC
-+ Https protocol, mTLS?
-+ OAuth2 : Password Grant , Authorization Code grant type
++ [Hash vs. Message Authentication Code](https://www.baeldung.com/cs/hash-vs-mac)
++ [API Authentication – Tokens vs Sessions](https://www.baeldung.com/cs/tokens-vs-sessions)
++ [What is a JWT? Understanding JSON Web Tokens](https://supertokens.com/blog/what-is-jwt)
++ [CORS, CSP, and Their Differences](https://www.baeldung.com/cs/cors-csp-differences)
++ [What is SQL Injection?](https://www.baeldung.com/cs/sql-injection)
 
 
