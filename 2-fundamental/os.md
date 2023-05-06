@@ -5,6 +5,7 @@
 # Guide
 + [OS](https://www.baeldung.com/cs/category/core-concepts/os-core-concepts)
 + [Linux](https://www.baeldung.com/linux/)
++ [Multithreading programming: Từ hardware tới software với Java](https://viblo.asia/s/multithread-programming-tu-hardware-toi-software-voi-java-QqKLvp2rl7z)
 
 # Highlight
 + [Process vs. Thread](https://www.baeldung.com/cs/process-vs-thread)

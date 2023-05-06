@@ -6,6 +6,9 @@
 + Composite Index
 + Choose column index best practice
 
+## Postgresql
++ [Performance optimization với Postgresql](https://viblo.asia/s/performance-optimization-voi-postgresql-OVlYq8oal8W)
+
 ## MongoDB
 + [mongodb](https://viblo.asia/p/mongodb-la-gi-co-so-du-lieu-phi-quan-he-bJzKmgoPl9N)
 
