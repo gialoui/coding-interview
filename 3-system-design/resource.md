@@ -10,8 +10,13 @@
 # Video
 + [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
 
-# Explore more
+# Blog
 + [ByteByteGo Newsletter](https://blog.bytebytego.com/)
++ [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
++ [Design Gurus](https://www.designgurus.io/blog)
++ [Arslan Ahmad](https://www.linkedin.com/in/arslanahmad/)
+
+# Explore more
 + [Awesome system design](https://github.com/madd86/awesome-system-design)
 + [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 
