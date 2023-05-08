@@ -28,7 +28,7 @@
 + [Difference between OLAP and OLTP in DBMS](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/)
 + [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF Example](https://www.guru99.com/database-normalization.html)
 + [ACID vs BASE properties of database transactions?](https://www.linkedin.com/advice/0/what-differences-similarities-between-acid-base-properties)
-+ [Isolation Level of MySQL](https://viblo.asia/p/isolation-level-of-mysql-63vKjRmAK2R)
++ [Database Isolation Level](https://huypva.github.io/database-isolation-level/)
 + [Optimistic lock và Pessimistic lock](https://viblo.asia/p/009-optimistic-lock-va-pessimistic-lock-L4x5xr7aZBM)
 + [Consistent Hashing](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 + [MyISAM & InnoDB in MySQL](https://viblo.asia/p/myisam-innodb-in-mysql-924lJOkm5PM)
