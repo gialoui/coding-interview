@@ -34,5 +34,4 @@
 
 # Question
 + [Hash Table - Separate chaining - Open Addressing](https://vnoi.info/wiki/algo/data-structures/hash-table.md)
-+ Bloom Filter
-+ HyperLogLog
++ [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)

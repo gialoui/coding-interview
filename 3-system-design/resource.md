@@ -22,9 +22,11 @@
 
 # Highlight
 ## Cache
++ [Top caching strategies](https://blog.bytebytego.com/p/top-caching-strategies)
 + [Redis architecture Explained](https://architecturenotes.co/redis/)
 
 ## Database
++ [SQL & NOSQL: A BRIEF HISTORY](https://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)
 + [Difference between OLAP and OLTP in DBMS](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/)
 + [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF Example](https://www.guru99.com/database-normalization.html)
 + [ACID vs BASE properties of database transactions?](https://www.linkedin.com/advice/0/what-differences-similarities-between-acid-base-properties)
@@ -33,6 +35,7 @@
 + [Consistent Hashing](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 + [MyISAM & InnoDB in MySQL](https://viblo.asia/p/myisam-innodb-in-mysql-924lJOkm5PM)
 + [Introduction to Indexing in SQL](https://www.datacamp.com/tutorial/introduction-indexing-sql)
++ [The Difference Between B-trees and B+trees](https://www.baeldung.com/cs/b-trees-vs-btrees)
 + [SQL Indexes: A Practical Guide](https://www.zuar.com/blog/sql-indexes-guide/)
 
 ## Queue

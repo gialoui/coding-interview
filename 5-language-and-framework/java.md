@@ -32,6 +32,8 @@
 + [Java Concurrency Tutorials](https://www.codejava.net/concurrency-tutorials)
 + [Deadlock in Java Multithreading](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/)
 + [What is a Race Condition](https://www.baeldung.com/cs/race-conditions)
++ [Using a Mutex Object in Java](https://www.baeldung.com/java-mutexs)
++ [Difference between atomic, volatile and synchronized in Java](https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#ixzz81N3LN67A)
 
 ## Collection
 + [Java collection framework](https://techmaster.vn/posts/36896/tat-tan-tat-ve-java-collections-sorting-phan-7)
