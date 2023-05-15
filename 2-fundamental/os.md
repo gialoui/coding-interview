@@ -7,7 +7,6 @@
 + [Linux](https://www.baeldung.com/linux/)
 
 # Highlight
-+ [Multithreading programming: Từ hardware tới software với Java](https://viblo.asia/s/multithread-programming-tu-hardware-toi-software-voi-java-QqKLvp2rl7z)
 + [Process vs. Thread](https://www.baeldung.com/cs/process-vs-thread)
 + [What is a Mutex?](https://www.baeldung.com/cs/what-is-mutex)
 + [What is a Race Condition?](https://www.baeldung.com/cs/race-conditions)

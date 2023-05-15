@@ -26,12 +26,12 @@
 + [Strong reference | weak reference](https://viblo.asia/p/tim-hieu-ve-garbage-collector-va-4-loai-tham-chieu-strong-reference-weak-reference-soft-reference-phantom-reference-Qbq5QLRXlD8)
 
 ## Multithreading and Concurrency
++ [Multithreading programming: Từ hardware tới software với Java](https://viblo.asia/s/multithread-programming-tu-hardware-toi-software-voi-java-QqKLvp2rl7z)
 + [Java Concurrency and Multithreading Tutorial](https://jenkov.com/tutorials/java-concurrency/index.html)
 + [Java Concurrency](https://www.baeldung.com/java-concurrency)
 + [Guide to Java Concurrency](https://howtodoinjava.com/series/java-concurrency/)
 + [Java Concurrency Tutorials](https://www.codejava.net/concurrency-tutorials)
 + [Deadlock in Java Multithreading](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/)
-+ [What is a Race Condition](https://www.baeldung.com/cs/race-conditions)
 + [Using a Mutex Object in Java](https://www.baeldung.com/java-mutexs)
 + [Difference between atomic, volatile and synchronized in Java](https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#ixzz81N3LN67A)
 
