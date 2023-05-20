@@ -23,17 +23,14 @@
 + [Java Heap Space vs Stack - Memory Allocation in Java](https://www.digitalocean.com/community/tutorials/java-heap-space-vs-stack-memory)
 + [Java Memory Model](https://viblo.asia/p/java-memory-model-aWj53221l6m)
 + [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/)
-+ [Strong reference | weak reference](https://viblo.asia/p/tim-hieu-ve-garbage-collector-va-4-loai-tham-chieu-strong-reference-weak-reference-soft-reference-phantom-reference-Qbq5QLRXlD8)
++ [Types of References in Java](https://viblo.asia/p/tim-hieu-ve-garbage-collector-va-4-loai-tham-chieu-strong-reference-weak-reference-soft-reference-phantom-reference-Qbq5QLRXlD8)
 
 ## Multithreading and Concurrency
 + [Multithreading programming: Từ hardware tới software với Java](https://viblo.asia/s/multithread-programming-tu-hardware-toi-software-voi-java-QqKLvp2rl7z)
-+ [Java Concurrency and Multithreading Tutorial](https://jenkov.com/tutorials/java-concurrency/index.html)
 + [Java Concurrency](https://www.baeldung.com/java-concurrency)
 + [Guide to Java Concurrency](https://howtodoinjava.com/series/java-concurrency/)
 + [Java Concurrency Tutorials](https://www.codejava.net/concurrency-tutorials)
-+ [Deadlock in Java Multithreading](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/)
-+ [Using a Mutex Object in Java](https://www.baeldung.com/java-mutexs)
-+ [Difference between atomic, volatile and synchronized in Java](https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#ixzz81N3LN67A)
++ [Java Concurrency and Multithreading Tutorial](https://jenkov.com/tutorials/java-concurrency/index.html)
 
 ## Collection
 + [Java collection framework](https://techmaster.vn/posts/36896/tat-tan-tat-ve-java-collections-sorting-phan-7)
@@ -69,6 +66,7 @@
 ## Miscellaneous
 + [Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)
 + [Passing Mechanism - Pass By Value](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
++ [Why String Is Immutable in Java](https://www.baeldung.com/java-string-immutable)
 + [What are the differences between String, StringBuffer and StringBuilder](https://www.edureka.co/blog/string-vs-stringbuffer-vs-stringbuilder/)
 + [Access Modifier](https://viblo.asia/p/private-public-protected-va-default-trong-java-WAyK80yWKxX)
 + [Difference between final, finally and finalize](https://www.javatpoint.com/difference-between-final-finally-and-finalize)
