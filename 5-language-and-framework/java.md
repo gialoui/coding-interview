@@ -64,6 +64,7 @@
 + [Understanding, Accepting and Leveraging Optional in Java](https://stackify.com/optional-java/)
 
 ## Miscellaneous
++ [Immutable Classes in Java](https://howtodoinjava.com/java/basics/how-to-make-a-java-class-immutable/)
 + [Autoboxing and Unboxing](https://www.geeksforgeeks.org/autoboxing-unboxing-java/)
 + [Passing Mechanism - Pass By Value](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
 + [Why String Is Immutable in Java](https://www.baeldung.com/java-string-immutable)
