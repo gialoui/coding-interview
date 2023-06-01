@@ -34,9 +34,16 @@
 + [Optimistic lock và Pessimistic lock](https://viblo.asia/p/009-optimistic-lock-va-pessimistic-lock-L4x5xr7aZBM)
 + [Consistent Hashing](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 + [MyISAM & InnoDB in MySQL](https://viblo.asia/p/myisam-innodb-in-mysql-924lJOkm5PM)
++ [Clustered Index và Non-clustered index](https://viblo.asia/p/hieu-ve-clustered-index-bJzKmw9Bl9N)
 + [Introduction to Indexing in SQL](https://www.datacamp.com/tutorial/introduction-indexing-sql)
 + [The Difference Between B-trees and B+trees](https://www.baeldung.com/cs/b-trees-vs-btrees)
 + [SQL Indexes: A Practical Guide](https://www.zuar.com/blog/sql-indexes-guide/)
 
 ## Queue
 + [Apache Kafka từ zero đến one](https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2)
+
+## Distributed
++ [System Design: Distributed Transactions](https://dev.to/karanpratapsingh/system-design-distributed-transactions-4hgo)
++ [Distributed Transaction Management in Microservices World](https://www.linkedin.com/pulse/distributed-transaction-management-micro-services-world-maheshwari/)
++ [A Guide to Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices)
++ [Distributed transaction - Two-phase commit](https://viblo.asia/p/distributed-transaction-two-phase-commit-naQZRBemZvx)
